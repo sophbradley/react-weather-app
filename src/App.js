@@ -1,4 +1,5 @@
 import "./App.css";
+import SearchEngine from "./SearchEngine.js";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Weather App</h1>
       </header>
+      <SearchEngine />
     </div>
   );
 }
