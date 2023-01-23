@@ -8,6 +8,18 @@ function App() {
         <h1>Weather App</h1>
       </header>
       <SearchEngine />
+      <footer>
+        <p>
+          <a
+            href="https://github.com/sophbradley/react-weather-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open source code
+          </a>{" "}
+          created by Sophie Bradley
+        </p>
+      </footer>
     </div>
   );
 }

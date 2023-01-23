@@ -13,3 +13,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+footer {
+  margin-top: 50px;
+  color: white;
+}
+
+footer a {
+  color: white;
+  transition: all 150ms ease-in-out;
+}
+
+footer a:hover {
+  font-weight: 600;
+}
